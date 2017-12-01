@@ -7,7 +7,7 @@ please contact me if you want to contribute to this project at swizex@gmail.com
 
 the program will be completly encrypted end to end,including most of the database.
 
-i am planning on isolating all the parts of the backend program in order to minimise the risk of
+i am planning on isolating all the parts of the backend program in order to minimize the risk of
 it being breached.
 
 user data will be stored in an encrypted server that will only be connected to the main server that
