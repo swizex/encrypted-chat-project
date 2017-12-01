@@ -38,3 +38,8 @@ the chat rooms themselves are going to be peer to peer based,this way the server
 security risk,all data between the room is encrypted using the owners private chat key.
 
 i am also considering implementing a VPN to isolate the chat rooms from everything else.
+
+the client software will be avaliable on windows/linux aswell as android,making it easily avaliable
+to everyone.
+
+developed by teddy morduhovich.
